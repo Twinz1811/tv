@@ -1,2 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="2026-02-18更新"
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://101.23.150.109:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://101.23.150.109:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://101.23.150.109:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="2026-02-19更新"
