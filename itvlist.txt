@@ -1,7 +1,6 @@
 央视频道,#genre#
 卫视频道,#genre#
-广西卫视,http://101.23.150.109:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://101.23.150.109:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://101.23.150.109:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://49.234.31.101:7066/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
 其他频道,#genre#
-2026-02-19更新,#genre#
+经济科教,http://49.234.31.101:7066/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+2026-02-20更新,#genre#
